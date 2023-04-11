@@ -42,6 +42,8 @@ This dataset contains information on default payments, demographic factors, cred
  PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
  default.payment.next.month: Default payment (1=yes, 0=no)
 
+## Overview
+The main objective of this project is to predict whether the credit card holder will default or not for paying the next month bill on the basis of credit card owner's characteristics and previous payment history.
 
 ## Deployement With Flask: 
 User input and predict the results link:
