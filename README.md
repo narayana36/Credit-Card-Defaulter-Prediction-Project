@@ -42,3 +42,6 @@ This dataset contains information on default payments, demographic factors, cred
  PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
  default.payment.next.month: Default payment (1=yes, 0=no)
 
+
+## Debugging With Flask: 
+http://127.0.0.1:5000/
