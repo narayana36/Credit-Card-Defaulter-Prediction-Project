@@ -44,5 +44,5 @@ This dataset contains information on default payments, demographic factors, cred
 
 
 ## Deployement With Flask: 
-User input then predict the results link:
+User input and predict the results link:
 http://127.0.0.1:5000/
