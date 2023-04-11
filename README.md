@@ -43,5 +43,5 @@ This dataset contains information on default payments, demographic factors, cred
  default.payment.next.month: Default payment (1=yes, 0=no)
 
 
-## Debugging With Flask: 
+## Deployement With Flask: 
 http://127.0.0.1:5000/
